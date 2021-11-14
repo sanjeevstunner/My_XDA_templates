@@ -1,0 +1,88 @@
+Thread title: [ROM][11][DEVICE] PixelExperience [AOSP]
+*******************************************************
+
+[CODE]/*
+
+ * Your warranty is now void.
+
+ *
+
+ * I am not responsible for bricked devices, dead SD cards,
+
+ * thermonuclear war, or you getting fired because the alarm app failed. Please
+
+ * do some research if you have any concerns about features included in this ROM
+
+ * before flashing it! YOU are choosing to make these modifications, and if
+
+ * you point the finger at me for messing up your device, I will laugh at you.
+
+ */[/CODE]
+
+[CENTER]
+[img]https://i.imgur.com/NFjZzFl.png[/img]
+[SIZE="5"][b][color=#1a73e8]PixelExperience for Redmi Note 6 Pro [tulip][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
+[SIZE="3"]PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, boot animation)
+
+Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device
+
+Based on Android 11
+[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wi-Fi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FM radio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound/vibration[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
+[SIZE="3"][url="DOWNLOAD_LINK"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
+[SIZE="3"][url="https://bit.ly/pixelexperiencedonate"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Translation[/color][/b][/SIZE]
+[SIZE="3"][url="https://translate.pixelexperience.org/"][b][color=#1a73e8][u]Help with project translation[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
+[SIZE="3"][url="https://t.me/PixelExperience"][b][color=#1a73e8][u]Our Telegram channel[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://blog.pixelexperience.org"][b][color=#1a73e8][u]Our blog[/u][/color][/b][/url][/SIZE]
+
+
+
+
+[SIZE="4"][b][color=#1a73e8]Developer's Contact[/color][/b][/SIZE]
+[SIZE="3"][url="https://t.me/Chandler_s_bio"][b][color=#1a73e8][u]My Telegram Profile[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://github.com/sanjeevstunner"][b][color=#1a73e8][u]My GitHub[/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Android OS version:[/b] 11.0.0_r29
+[*][b]Security patch level:[/b] November 2021
+[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973/]Sanjeev Stunner[/url]
+[*][b]Device Tree Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_tulip]https://github.com/sanjeevstunner/device_xiaomi_tulip[/url]
+[*][b]Device SDM-660 Common Tree Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_sdm660-common]https://github.com/sanjeevstunner/device_xiaomi_sdm660-common[/url]
+
+[*][b]Kernel Tree Source code:[/b] [url=https://github.com/sanjeevstunner/kernel_xiaomi_sdm660]https://gitlab.com/the-muppets/proprietary_vendor_xiaomi[/url]
+
+[*][b]Vendor Tree Source code:[/b] [url=https://github.com/sanjeevstunner/vendor_xiaomi_tulip]https://github.com/sanjeevstunner/vendor_xiaomi_tulip[/url]
+
+[*][b]Source code:[/b] [url=https://github.com/PixelExperience]https://github.com/PixelExperience[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/m/jhenrique09.6519039/]jhenrique09[/url]
+[/list][/SIZE][/LEFT]
