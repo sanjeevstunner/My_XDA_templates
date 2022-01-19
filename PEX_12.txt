@@ -115,7 +115,9 @@ As only Essesntial Features will be added so this list will updated whenever the
 
 [*][b]Device Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu[/url]
 
-[*][b]Source code:[/b] [url=https://github.com/PixelExtended]https://github.com/PixelExtended[/url]
+[*][b]Kernel Source code:[/b] [url=https://github.com/sanjeevstunner/kernel_xiaomi_sm8150]https://github.com/sanjeevstunner/kernel_xiaomi_sm8150[/url]
+
+[*][b]ROM Source code:[/b] [url=https://github.com/PixelExtended]https://github.com/PixelExtended[/url]
 
 [*][b]PixelExtended Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=7515368]Aryan Gupta[/url]
 
