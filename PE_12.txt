@@ -1,8 +1,8 @@
-Thread title: [ROM][12][DEVICE] PixelExperience [AOSP]
+Thread title: [ROM][12][UNOFFICIAL] PixelExperience [Vayu][Bhima][AOSP]
 
 [CENTER]
 [img]https://i.imgur.com/NFjZzFl.png[/img]
-[SIZE="5"][b][color=#1a73e8]PixelExperience for DeviceName [codename][/color][/b][/SIZE]
+[SIZE="5"][b][color=#1a73e8]PixelExperience for Poco X3 Pro [vayu/bhima][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
 [SIZE="3"]PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, boot animation)
@@ -33,7 +33,7 @@ Sound/vibration[/SIZE]
 [SIZE="3"]You tell me[/SIZE]
 
 [SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
-[SIZE="3"][url="https://download.pixelexperience.org/DEVICE_CODENAME/"][b][color=#1a73e8][u]Download from PixelExperience website[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="LINK"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
 [SIZE="3"][url="https://bit.ly/pixelexperiencedonate"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
@@ -42,15 +42,16 @@ Sound/vibration[/SIZE]
 [SIZE="3"][url="https://translate.pixelexperience.org/"][b][color=#1a73e8][u]Help with project translation[/u][/color][/b][/url][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
-[SIZE="3"][url="https://t.me/PixelExperience"][b][color=#1a73e8][u]Our Telegram channel[/u][/color][/b][/url][/SIZE]
-[SIZE="3"][url="https://blog.pixelexperience.org"][b][color=#1a73e8][u]Our blog[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://t.me/chandler_s_ROMs"][b][color=#1a73e8][u]Our Telegram channel[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://t.me/chandeler_s_chat"][b][color=#1a73e8][u]Our Telegram Group[/u][/color][/b][/url][/SIZE]
 [/CENTER]
 
 [LEFT][SIZE="3"][list]
 [*][b]Android OS version:[/b] 12
-[*][b]Security patch level:[/b] November 2021
-[*][b]Build author/Device Maintainer:[/b] [url=XDA_PROFILE_URL]XDA_USERNAME[/url]
-[*][b]Device Source code:[/b] [url=https://github.com/PixelExperience-Devices]https://github.com/PixelExperience-Devices[/url]
+[*][b]Security patch level:[/b] Januarys 2022
+[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973]Sanjeev[/url]
+[*][b]Device Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu[/url]
+[*][b]Kernel Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/kernel_xiaomi_sm8150[/url]
 [*][b]Source code:[/b] [url=https://github.com/PixelExperience]https://github.com/PixelExperience[/url]
 [*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/m/jhenrique09.6519039/]jhenrique09[/url]
 [/list][/SIZE][/LEFT]
