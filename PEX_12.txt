@@ -1,5 +1,5 @@
 Thread Title :-
-[ROM][UNOFFICIAL] Pixel Extended ROM V4.0 Android 12 [Vayu][Bhima][18.01.22]
+[ROM][12][UNOFFICIAL] Pixel Extended ROM V4.0 Android 12 [Vayu][Bhima][AOSP]
 
 [CENTER]
 
@@ -83,7 +83,7 @@ As only Essesntial Features will be added so this list will updated whenever the
 
 [SIZE="6"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
 
-[SIZE="10"][url="https://github.com/sanjeevstunner/Vayu-Releases/releases/download/pex_12-22.1.0/PixelExtended_vayu-12.0-20220117-1130-UNOFFICIAL-Chandler_Bing.zip"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
+[SIZE="10"][url="LINK"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
 
 [SIZE="10"][url="https://t.me/Chandler_bing_hosts_here/19"][b][color=#1a73e8][u]Mirror[/u][/color][/b][/url][/SIZE]
 
@@ -111,7 +111,7 @@ As only Essesntial Features will be added so this list will updated whenever the
 
 [*][b]Security patch level:[/b] December 2021
 
-[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973/]Sanjeev Stunner[/url]
+[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973/]Sanjeev[/url]
 
 [*][b]Device Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu[/url]
 
