@@ -48,7 +48,7 @@ Sound/vibration[/SIZE]
 
 [LEFT][SIZE="3"][list]
 [*][b]Android OS version:[/b] 12
-[*][b]Security patch level:[/b] Januarys 2022
+[*][b]Security patch level:[/b] January 2022
 [*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973]Sanjeev[/url]
 [*][b]Device Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu[/url]
 [*][b]Kernel Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/kernel_xiaomi_sm8150[/url]
