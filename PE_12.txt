@@ -1,4 +1,4 @@
-Thread title: [ROM][12][UNOFFICIAL] PixelExperience [Vayu][Bhima][AOSP]
+Thread title: [ROM][12][UNOFFICIAL] PixelExperience [February 2022][Vayu][Bhima][AOSP]
 
 [CENTER]
 [img]https://i.imgur.com/NFjZzFl.png[/img]
@@ -48,8 +48,8 @@ Sound/vibration[/SIZE]
 
 [LEFT][SIZE="3"][list]
 [*][b]Android OS version:[/b] 12
-[*][b]Security patch level:[/b] January 2022
-[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973]Sanjeev AKA Chandler Bing[/url]
+[*][b]Security patch level:[/b] February 2022
+[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973]Sanjeev[/url] <AKA> [url=https://t.me/Chandler_bing_here]Chandler Bing[/url]
 [*][b]Device Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]Github[/url]
 [*][b]Kernel Source code:[/b] [url=https://github.com/sanjeevstunner/kernel_sm8150]Github[/url]
 [*][b]Source code:[/b] [url=https://github.com/PixelExperience]Github[/url]
