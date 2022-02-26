@@ -73,7 +73,7 @@ As only Essesntial Features will be added so this list will updated whenever the
 
 [SIZE="6"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
 
-[SIZE="10"][url="LINK"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
+[SIZE="10"][url="https://www.pling.com/p/1698934/"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
 
 [SIZE="10"][url="https://t.me/Chandler_bing_hosts_here/19"][b][color=#1a73e8][u]Mirror[/u][/color][/b][/url][/SIZE]
 
@@ -97,9 +97,9 @@ As only Essesntial Features will be added so this list will updated whenever the
 
 [*][b]Android OS version:[/b] 12
 
-[*][b]Security patch level:[/b] January 2022
+[*][b]Security patch level:[/b] February 2022
 
-[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/sanjeevstunner.9824973/]Sanjeev[/url]
+[*][b]Build author/Device Maintainer:[/b] [b][url=https://forum.xda-developers.com/m/sanjeevstunner.9824973/]Sanjeev[/url][/b] <AKA> [b][url=https://t.me/Chandler_bing_here/]Chandler Bing[/url][/b]
 
 [*][b]Device Source code:[/b] [url=https://github.com/sanjeevstunner/device_xiaomi_vayu]https://github.com/sanjeevstunner/device_xiaomi_vayu[/url]
 
