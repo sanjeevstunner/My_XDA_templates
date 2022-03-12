@@ -153,14 +153,15 @@ You tell me! :p
 
 [SIZE=4]- [B]Android OS version: [/B][COLOR=rgb(243, 121, 52)][B]12.0[/B][/COLOR]
 - [B]Security patch:[/B] [COLOR=rgb(243, 121, 52)][B] February 2022 [/B][/COLOR]
-- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B]<MaintainerNameHere>[/B][/COLOR]
-- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceNameHere> [/B][/COLOR] [/B]
-- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] <DeviceCodeNameHere> [/B][/COLOR]  
+- [B]Build author/Device Maintainer[/B] : [COLOR=rgb(243, 121, 52)][B][URL='https://forum.xda-developers.com/m/9824973/']Sanjeev[/URL] <AKA> [URL='https://t.me/Chandler_bing_here']Chandler Bing[/URL][/B][/COLOR]
+- [B]DEVICE[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] Poco X3 Pro [/B][/COLOR] [/B]
+- [B]DEVICE CODENAME[/B]: [B]  [COLOR=rgb(243, 121, 52)][B] vayu/bhima [/B][/COLOR]  
 
 [SIZE=7]---- Sources and Documentation ----[/SIZE][/B][/SIZE]
 
 [SIZE=5][B][SIZE=5]- [B][URL='https://github.com/Project-Elixir'][COLOR=rgb(243, 121, 52)]ROM Source Code[/COLOR][/URL][/B] [/SIZE]
-[SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/kernel_xiaomi_violet'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE]
+[SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/device_xiaomi_vayu'][COLOR=rgb(243, 121, 52)]Device Source[/COLOR][/URL][/B][/SIZE]
+[SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices/kernel_xiaomi_vayu'][COLOR=rgb(243, 121, 52)]Kernel Source[/COLOR][/URL][/B][/SIZE]
 [SIZE=5]- [B][URL='https://github.com/Project-Elixir-Devices'][COLOR=rgb(243, 121, 52)]OFFICIAL DEVICES[/COLOR][/URL][/B][/SIZE]
 [SIZE=5][B][SIZE=5]- [B][URL='https://projectelixiros.com/documentation'][COLOR=rgb(243, 121, 52)]Documentation[/COLOR][/URL][/B] [/SIZE]
 
