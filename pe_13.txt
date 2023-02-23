@@ -1,0 +1,56 @@
+[ROM][13][Poco X3 Pro] PixelExperience [AOSP]
+
+[CENTER]
+[img]https://i.imgur.com/3jmGyjb.png[/img]
+[SIZE="5"][b][color=#1a73e8]PixelExperience for Poco X3 Pro [vayu/bhima][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
+[SIZE="3"]PixelExperience is an AOSP based ROM, with Google apps included and all Pixel goodies (launcher, wallpapers, icons, fonts, boot animation)
+
+Our mission is to offer the maximum possible stability and security, along with essential and useful features for the proper functioning of the device
+
+Based on Android 13
+[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wi-Fi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FM radio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound/vibration[/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
+[SIZE="3"][url="https://github.com/sanjeevstunner/Vayu-Releases/releases"][b][color=#1a73e8][u]Download[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#1a73e8]Donate[/color][/b][/SIZE]
+[SIZE="3"][url="https://www.buymeacoffee.com/sanjeevstunner"][b][color=#1a73e8][u]Liked my work? Give me a beer[/u][/color][/b][/url][/SIZE]
+
+
+[SIZE="4"][b][color=#1a73e8]Stay tuned[/color][/b][/SIZE]
+[SIZE="3"][url="https://t.me/chandlers_channel"][b][color=#1a73e8][u]Our Telegram channel[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://t.me/chandlers_chat"][b][color=#1a73e8][u]Our Telegram chat[/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Android OS version:[/b] 13
+[*][b]Security patch level:[/b] February 2023
+[*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/9824973]Sanjeev <aka> Chandler Bing[/url]
+[*][b]Device Source code:[/b] [url=https://github.com/sanjeevstunner/android_device_xiaomi_vayu]Device Tree[/url]
+[*][b]Kernel Source code:[/b] [url=https://github.com/sanjeevstunner/android_kernel_xiaomi_vayu]Kernel Tree[/url]
+
+[*][b]Source code:[/b] [url=https://github.com/PixelExperience]PixelExperience GitHub[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/m/jhenrique09.6519039/]jhenrique09[/url]
+[/list][/SIZE][/LEFT]
